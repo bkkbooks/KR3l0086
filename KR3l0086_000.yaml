@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0086/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0086_WYG_000-1a, image: WYG1041/WYG1041-0231a.png}
+body:
+  text: 菽園雜記小說家類一雜事之屬提要臣等謹案菽園雜記十五卷明陸容撰容字文量號式齊太倉州人成化丙戌進士官至浙江右參政事迹具明史文苑傳史稱容與張泰陸釴齊名時號婁東三鳯其詩才不及泰釴而博學過之是編乃其劄録之文於明代朝野故實叙述頗詳多可與史相考證旁及談諧雜事皆並列簡編蓋自唐宋以來說部之體如是也中間頗有考辨如元王柏作二南相配圖棄甘棠何彼穠矣野有死麕三篇於經義極為乖剌而容獨歎為卓識又文廟别作寢殿祀啓聖公而配以四配之父其議發于熊禾而容謂叔梁紇為主出於無謂孟孫激非聖賢之徒不當從祀尤昧於崇功報本之義皆不足為據然核其大致可採者較多王鏊嘗謂其門人曰本朝紀事之書當以陸文量為第一即指此書也雖無雙之譽奬借過深要其所以取之者必有在矣乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:4a1a6d418fbd8b55b65a9574e7bab710834920d0889381f3e715f6a154d6d5b4
+metadata:
+  title: 菽園雜記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:40:02.681990'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0086/KR3l0086_000.txt
+hash: sha256:028c96586bb12ea95c1f1a7f6d81cf12c859ecf39eff772af73cda2c2a0bbd8d
